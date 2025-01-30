@@ -3,7 +3,7 @@
         {
             "id": 1,
             "caption": "Italy 🇮🇹",
-            "url": "https://github.com/singhsanket143/Instagram-Reels-Raw-Files/blob/main/1.mp4",
+            "url": "https://github.com/singhsanket143/Instagram-Reels-Raw-Files/raw/main/1.mp4",
             "likes": 100,
             "shares": 10,
             "comments": 20
@@ -11,7 +11,7 @@
         {
             "id": 2,
             "description": "Australia 🇦🇺",
-            "url": "https://github.com/singhsanket143/Instagram-Reels-Raw-Files/blob/main/2.mp4",
+            "url": "https://github.com/singhsanket143/Instagram-Reels-Raw-Files/raw/main/2.mp4",
             "likes": 200,
             "shares": 20,
             "comments": 40
@@ -19,7 +19,7 @@
         {
             "id": 3,
             "description": "Switzerland 🇨🇭",
-            "url": "https://github.com/singhsanket143/Instagram-Reels-Raw-Files/blob/main/3.mp4",
+            "url": "https://github.com/singhsanket143/Instagram-Reels-Raw-Files/raw/main/3.mp4",
             "likes": 300,
             "shares": 30,
             "comments": 60
